@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: Unlicensed
+// Write a smart contract on a test network, for Bank account of a customer for following operations: 1.Deposit money 2.Withdraw Money 3.Show balance
 pragma solidity ^0.8.0;
 
 contract Bank {
