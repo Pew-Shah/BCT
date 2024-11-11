@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Write a smart contract on a test network, for product inventory including following operations:1.Receive Product 2.Sale product 3.Display Stock
 pragma solidity ^0.8.0;
 
 contract ProductInventory {
