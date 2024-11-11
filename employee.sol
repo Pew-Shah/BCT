@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Write a program in solidity to create Employee data. Use the following constructs: 1.Structures 2.Arrays 3.Fallback. Deploy this as smart contract on Ethereum and Observe the transaction fee and Gas values.
 pragma solidity ^0.8.0;
 
 contract EmployeeData {
